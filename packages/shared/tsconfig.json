@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "outDir": "./dist",
+    "lib": ["es2015"],
+    "esModuleInterop": true
+  }
+}

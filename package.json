@@ -1,0 +1,14 @@
+{
+  "name": "monorepo-yarn-typescript",
+  "version": "1.0.0",
+  "packageManager": "yarn@4.0.1",
+  "private": true,
+  "author": "Konrad Kowalski <rootsher@gmail.com>",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
